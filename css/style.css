@@ -1,0 +1,32 @@
+body {
+    background-color: lightgreen;
+    margin: 100px;
+    padding: 50px;
+    border: 10px solid red;
+
+}
+
+#heading-one {
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+    font-size: 60px;
+
+}
+
+.common-color {
+    background-color: crimson;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.hot-pink {
+    background-color: hotpink;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+#orange-color {
+    background-color: orange;
+    padding: 50px;
+}
